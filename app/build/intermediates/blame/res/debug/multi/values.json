@@ -1,0 +1,305 @@
+[
+    {
+        "outputFile": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 18,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 57,
+                    "endOffset": 241
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 246,
+                    "endColumn": 55,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 302,
+                    "endColumn": 42,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 53,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endColumn": 33,
+                    "endOffset": 428
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 433,
+                    "endColumn": 51,
+                    "endOffset": 480
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 485,
+                    "endColumn": 41,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endColumn": 63,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 93,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 685,
+                    "endColumn": 41,
+                    "endOffset": 722
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 727,
+                    "endColumn": 85,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endColumn": 70,
+                    "endOffset": 879
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 884,
+                    "endColumn": 88,
+                    "endOffset": 968
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 973,
+                    "endColumn": 55,
+                    "endOffset": 1024
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 3,
+                        "startOffset": 178,
+                        "endColumn": 54,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1029,
+                    "endColumn": 73,
+                    "endOffset": 1098
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1103,
+                    "endColumn": 98,
+                    "endOffset": 1197
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1202,
+                    "endColumn": 88,
+                    "endOffset": 1286
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1291,
+                    "endColumn": 56,
+                    "endOffset": 1343
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1348,
+                    "endColumn": 78,
+                    "endOffset": 1422
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1427,
+                    "endColumn": 52,
+                    "endOffset": 1475
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1480,
+                    "endColumn": 58,
+                    "endOffset": 1534
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1539,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1825
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1830,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 1985
+                },
+                "from": {
+                    "file": "C:\\Users\\Aseelkz\\Documents\\College\\2016 Spring\\OOP\\TwitterSearches\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
